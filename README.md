@@ -1,7 +1,7 @@
 # Nagios Dashboard
 A clean and simple overview of your Nagios environment optimized for the system adminstratos  displays. 
 
-I designed this dashboard **For my Final Year project** as a way to have quick visibility into the health of the Nagios environment from a TV mounted on the wall in our public space - or on a tablet on your desk. It offers a color coded system which helps stand out any troubles that are going on and automatic background updates mean you don't have to constantly refresh the page.
+I designed this dashboard **For my Final Year project** as a way to have quick visibility into Nagios service monitoring your network infrastructure. It offers a color coded system which helps stand out any troubles that are going on and automatic background updates mean you don't have to constantly refresh the page.
 
 ![alt text](http://i.imgur.com/BmZ4CxB.jpg "Nagios Dashboard")
 
